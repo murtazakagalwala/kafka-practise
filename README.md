@@ -1,2 +1,2 @@
 # kafka-practise
-kafka producer and consumer code
+kafka producer and consumer code in java
